@@ -12,7 +12,7 @@ struct ContentView: View {
     var body: some View {
         VStack {
 
-            Text("Hamo ganteng :V")
+            Text("Hamo ganteng sekali :V")
                 .font(.largeTitle)
             Text("\(viewModel.number)")
             Button("Click me here"){
